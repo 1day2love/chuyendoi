@@ -1,0 +1,22 @@
+{
+    "name": "haiau009/laravel-caching-model",
+    "description": "A simple cache library for laravel eloquent model",
+    "type": "library",
+    "require": {
+        "php": "^7.0|^8.0",
+        "laravel/framework": "^6.0|^7.0|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Haiau009\\CachingModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haiau009",
+            "email": "admin@kkphim.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
